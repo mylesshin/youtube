@@ -1,7 +1,7 @@
 ## YouTube Clone
 
 Created this YouTube clone using React, TailwindCSS, and TypeScript.
-
+![test](https://github.com/mylesshin/youtube/raw/main/public/youtubeclonevideo.mp4)
 Followed this [tutorial](https://www.youtube.com/watch?v=ymGB1lqP1CM&ab_channel=WebDevSimplified).
 
 ## Available Scripts
