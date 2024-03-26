@@ -1,3 +1,7 @@
+Created this YouTube clone using React, TailwindCSS, and TypeScript.
+
+Followed this [tutorial](https://www.youtube.com/watch?v=ymGB1lqP1CM&ab_channel=WebDevSimplified).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
