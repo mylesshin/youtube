@@ -1,7 +1,10 @@
 ## YouTube Clone
 
 Created this YouTube clone using React, TailwindCSS, and TypeScript.
-[![Alt text for the video](https://www.youtube.com/watch?v=KAthkTRSBH0&ab_channel=MylesShin)](https://www.youtube.com/watch?v=KAthkTRSBH0&ab_channel=MylesShin "Click to watch the video")
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=KAthkTRSBH0&ab_channel=MylesShin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Followed this [tutorial](https://www.youtube.com/watch?v=ymGB1lqP1CM&ab_channel=WebDevSimplified).
 
